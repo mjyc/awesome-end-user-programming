@@ -33,6 +33,6 @@ A list of my favorite end-user programming, crowdsourcing, programming languauge
 
 ## Research
 
-- [Watch What I Do: Programming by Demonstration](https://books.google.com/books?id=Ggzjo0-W1y0C&lpg=PP1&ots=W702-94CQp&dq=Watch%20What%20I%20Do%3A%20Programming%20by%20Demonstration&lr&pg=PP1#v=onepage&q=Watch%20What%20I%20Do:%20Programming%20by%20Demonstration&f=false)
+- [Watch What I Do: Programming by Demonstration (MIT Press)](https://books.google.com/books?id=Ggzjo0-W1y0C&lpg=PP1&ots=W702-94CQp&dq=Watch%20What%20I%20Do%3A%20Programming%20by%20Demonstration&lr&pg=PP1#v=onepage&q=Watch%20What%20I%20Do:%20Programming%20by%20Demonstration&f=false) by Allen Cypher, 1993
 - [A Programming System for Children that is Designed for Usability](https://docs.google.com/presentation/d/1yb5PmO03PX0WjwX-Br8-KeRONDEeEv7Bo_2DVa_oql4/edit?usp=sharing) -  John F. Pane, 2002, PhD Thesis
 - [End User Programming for Robots](https://docs.google.com/spreadsheets/d/1rl0oc0k0RJZSLr9KGUZBfRkND4sMzNRgZ-AhTou_Yvs/edit?usp=sharing) - _last updated in 2021/10_
