@@ -1,5 +1,5 @@
 # awesome-end-user-programming
-A curated list of end-user programming, crowdsourcing, programming languauges links
+A list of my favorite end-user programming, crowdsourcing, programming languauges links
 
 ## Forums & Communities
 
