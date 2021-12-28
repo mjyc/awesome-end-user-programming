@@ -20,6 +20,8 @@ A list of my favorite end-user programming, crowdsourcing, programming languauge
 - [Vega-Lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega
 - [idyll](https://github.com/idyll-lang/idyll) - A Markup Language for Authoring and Publishing Interactive Articles on the Web
 - [ROS](https://www.ros.org/) - ROS - Robot Operating System
+- [p5.js](https://p5js.org/) - p5.js is a JavaScript library for creative coding
+- [ml5js.](https://ml5js.org/) - Friendly Machine Learning for the Web
 
 ## Products & Companies
 
