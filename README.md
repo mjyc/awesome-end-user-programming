@@ -22,6 +22,7 @@ A list of my favorite end-user programming, crowdsourcing, programming languauge
 - [ROS](https://www.ros.org/) - ROS - Robot Operating System
 - [p5.js](https://p5js.org/) - p5.js is a JavaScript library for creative coding
 - [ml5js.](https://ml5js.org/) - Friendly Machine Learning for the Web
+- [virtual-audio-graph](https://github.com/benji6/virtual-audio-graph) - Library for declaratively manipulating the Web Audio API
 
 ## Products & Companies
 
